@@ -4,7 +4,7 @@ A small library for capitalizing words and sentences.
 
 ## Install
 
-```
+```bash
 # yarn
 yarn add @varld/capitalize
 
